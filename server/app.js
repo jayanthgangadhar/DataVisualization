@@ -1,0 +1,1 @@
+require("../server/services/bookstore.service");
